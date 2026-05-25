@@ -1,16 +1,29 @@
-## Hi there 👋
+  ## Hi 👋 I'm Palak
 
-<!--
-**ppalakk/ppalakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Computer Science Undergraduate • Curious Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I'm a B.Tech Computer Science student who enjoys building practical, impact-driven software systems.
+A passionate developer who loves building practical software and solving problems. 
+
+- 🚀 Currently strengthening my core fundamentals and tech stack.
+- 🔧 Strong focus on core CS + web development
+- 🏗️ Believer in learning by building and iterating.
+- 🧠 Always curious to learn new technologies and tools.
+
+---
+
+## 🛠️ Skills
+
+* **Languages:**  C++,java
+* **Web Development:** HTML5, CSS3, JavaScript
+* **Core CS:** Data Structures & Algorithms , Problem Solving
+
+
+---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palak-verma-a68a7032b) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palakverma1206@gmail.com)
