@@ -1,6 +1,6 @@
   ## Hi 👋 I'm Palak
 
-#### Computer Science Undergraduate • Curious Learner
+#### Computer Science Undergraduate • Curious Learner  • Full Stack Developer
 
 ---
 
