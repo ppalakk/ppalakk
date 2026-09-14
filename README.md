@@ -1,26 +1,24 @@
   ## Hi 👋 I'm Palak
 
-#### Computer Science Undergraduate • Curious Learner  • Full Stack Developer
+#### Computer Science Student • Full Stack Developer • Problem Solver
 
 ---
 
 ## 👨‍💻 About Me
-I'm a B.Tech Computer Science student who enjoys building practical, impact-driven software systems.
-A passionate developer who loves building practical software and solving problems. 
-
+I'm a B.Tech Computer Science student passionate about building practical software and learning through hands-on development.
 - 🚀 Currently strengthening my core fundamentals and tech stack.
-- 🔧 Strong focus on core CS + web development
-- 🏗️ Believer in learning by building and iterating.
-- 🧠 Always curious to learn new technologies and tools.
+- 💻 Focused on Full-Stack Web Development
+- 🧠 Practicing Data Structures & Algorithms in C++
+- 🏗️ Learning by building, experimenting and iterating
 
 ---
 
 ## 🛠️ Skills
 
 * **Languages:**  C++,java
-* **Web Development:** HTML5, CSS3, JavaScript
+* **Web Development:** HTML5, CSS3, JavaScript,Node.js,Express.js
 * **Core CS:** Data Structures & Algorithms , Problem Solving
-
+* **Database:** SQL,Mongodb
 
 ---
 
